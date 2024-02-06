@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Abisola-Morohunfolu/readme-generator#readme",
   "dependencies": {
-    "inquirer": "^9.2.14"
+    "inquirer": "^8.2.6"
   }
 }
