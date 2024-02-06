@@ -6,7 +6,8 @@ A node app to generate readme files from the command line
 
 ### Table of content
 
-1.Installation(#installation)
+1.[Installation](#installation)
+
 2.Usage(#usage)
 
 ### Instalation
